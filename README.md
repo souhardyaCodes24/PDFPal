@@ -24,21 +24,21 @@ Here are some screenshots demonstrating how the app works from start to finish:
 ### 📌 1. Initial Interface  
 The user sees a clean Gradio UI with the option to upload a PDF or PPTX file and a textbox to enter their question.
 
-![Initial UI](images/screenshot1.png)
+![Initial UI](images/homepage.png)
 
 ---
 
 ### 📂 2. After Upload & Question Input  
 Once a file is uploaded and a question is typed, the system prepares to process the input and generate a response.
 
-![File Uploaded + Question Asked](images/screenshot2.png)
+![File Uploaded + Question Asked](images/uploaded.png)
 
 ---
 
 ### 📢 3. Answer Displayed  
 The model returns a relevant answer extracted from the uploaded document. The result is displayed in a clear and readable format.
 
-![AI Answer Displayed](images/screenshot3.png)
+![AI Answer Displayed](images/output.png)
 
 ---
 
